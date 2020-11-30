@@ -33,12 +33,12 @@ Un patron de comportement permet de résoudre les problèmes liés aux comportem
 - **Interpréteur**: Interpréter un langage spécialisé.
 - **Observateur**: Intercepter un événement pour le traiter.
 - **Itérateur**: Parcourir un ensemble d'objets à l'aide d'un objet de contexte (curseur).
-**Stratégie**: Changer dynamiquement de stratégie (algorithme) selon le contexte.
-**Visiteur**: Découpler classes et traitements, afin de pouvoir ajouter de nouveaux traitements sans ajouter de nouvelles méthodes aux classes existantes.
-**Médiateur**: Réduire les dépendances entre un groupe de classes en utilisant une classe Médiateur comme intermédiaire de communication.
-**Mémento**: Mémoriser l'état d'un objet pour pouvoir le restaurer ensuite.
-**Patron de méthode**: Définir un modèle de méthode en utilisant des méthodes abstraites.
-**Etat**: Gérer différents états à l'aide de différentes classes.
+- **Stratégie**: Changer dynamiquement de stratégie (algorithme) selon le contexte.
+**- Visiteur**: Découpler classes et traitements, afin de pouvoir ajouter de nouveaux traitements sans ajouter de nouvelles méthodes aux classes existantes.
+- **Médiateur**: Réduire les dépendances entre un groupe de classes en utilisant une classe Médiateur comme intermédiaire de communication.
+- **Mémento**: Mémoriser l'état d'un objet pour pouvoir le restaurer ensuite.
+- **Patron de méthode**: Définir un modèle de méthode en utilisant des méthodes abstraites.
+- **Etat**: Gérer différents états à l'aide de différentes classes.
 
 # Avantages
 
